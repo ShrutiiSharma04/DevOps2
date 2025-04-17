@@ -1,7 +1,6 @@
-version: '3'
 services:
   my-app:
-    image: my-app:1.0
+    image: my_app:1.0
     ports:
       - 3000:3000
 
